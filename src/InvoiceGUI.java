@@ -59,9 +59,6 @@ public class InvoiceGUI extends JFrame {
     /**
      * Sets up the layout of all components
      */
-    /**
-     * Sets up the layout of all components
-     */
     private void setupLayout() {
         setLayout(new BorderLayout(10, 10));
 
